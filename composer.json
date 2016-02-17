@@ -21,7 +21,7 @@
         "symfony/framework-bundle": "~3",
         "symfony/process": "~3",
         "doctrine/collections": "1.*",
-        "symfony/assetic-bundle": "~3",
+        "symfony/assetic-bundle": "~2",
         "doctrine/cache": "~1.0"
     },
     "require-dev":{
